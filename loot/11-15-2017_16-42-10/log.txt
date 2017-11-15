@@ -1,0 +1,4 @@
+Status		Description						Date
+START		The exploit has now been started and running.		11/15/2017 4:43:10 PM
+PAYLOAD		Payload shell_netcat.vbs has been launched.		11/15/2017 4:43:10 PM
+STOP		The exploit has completed. Time: 1 seconds		11/15/2017 4:43:11 PM
